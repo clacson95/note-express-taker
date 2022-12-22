@@ -4,7 +4,7 @@
 This application is a note taker that lets users add new notes. It utilizes Express for routing.
 
 This application is deployed with **Heroku**:
-### [Deployed Application]()
+### [Deployed Application](https://express-note-taker22.herokuapp.com/)
 
 ## Table of Contents
 * [Usage](#usage)
