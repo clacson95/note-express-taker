@@ -1,20 +1,17 @@
 # note-express-taker [![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-This application is a note taker. It utilizes
+This application is a note taker that lets users add new notes. It utilizes Express for routing.
 
-This application is deployed with **GitHub Pages**:
+This application is deployed with **Heroku**:
 ### [Deployed Application]()
 
 ## Table of Contents
-* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Installation](#installation)
 * [License](#license)
 * [How to Contribute](#how-to-contribute)
 * [Questions](#questions)
-
-## Screenshots
 
 
 ## Usage
@@ -22,11 +19,15 @@ This application is deployed with **GitHub Pages**:
 There are two methods to use this application:
 
 1. Use the link above to access the deployed application.
-2. To use this back-end application, fork the repository, clone the repository, or download the ZIP file to access the code for yourself. This will require you to have a text editor. I recommend Visual Studio Code, but there are a plethora of other options available.
-
-Then, simply open the app at http://localhost:3000/.
+2. Fork the repository, clone the repository, or download the ZIP file to access the code for yourself. This will require you to have a text editor. I recommend Visual Studio Code, but there are a plethora of other options available.
+    * Follow the Installation instructions below.
+    * Run `node server.js` in the terminal.
+    * Open the app in your browser at http://localhost:3001/.
 
 ## Installation
+1. Ensure node.js is installed. 
+3. Create a `package.json` file by entering the `npm init -y` command in the terminal. 
+4. Install dependencies with the terminal command `npm install` or `npm i`
 
 
 ## License
